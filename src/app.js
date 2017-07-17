@@ -8,19 +8,19 @@ let data = {
         {
             "id": 1,
             "name": "Jason",
-            "lastName": "Deegan",
-            "email": "jdeegan@gmail.com",
+            "lastName": "Jason",
+            "email": "jjason@gmail.com",
             "projects": [
                 {
                     "id": 1,
-                    "name": "Ramble",
+                    "name": "Project1",
                     "description": "project description",
                     "totalWorkedHours": 0,
                     "dateStart": 0
                 },
                 {
                     "id": 1,
-                    "name": "Peruzz",
+                    "name": "Project2",
                     "description": "project description",
                     "totalWorkedHours": 0,
                     "dateStart": 0
@@ -31,11 +31,11 @@ let data = {
             "id": 2,
             "name": "Maxwell",
             "lastName": "Maxwell",
-            "email": "yolistenmax@gmail.com",
+            "email": "mmaxwel@gmail.com",
             "projects": [
                 {
                     "id": 1,
-                    "name": "Process Board",
+                    "name": "Project1",
                     "description": "project description",
                     "totalWorkedHours": 0,
                     "dateStart": 0
