@@ -1,0 +1,27 @@
+{
+  "name": "homeaccount",
+  "version": "1.0.0",
+  "description": "Description of the project: Creating home accounting, which will handle regular daily money income/outcome managment. Also to add generating invoice functionality",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "webpack": "^3.3.0"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.16",
+    "html-webpack-plugin": "^2.29.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/nm_private/homeaccount.git"
+  },
+  "keywords": [],
+  "author": "Natalia Melikyants",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nm_private/homeaccount#readme"
+}

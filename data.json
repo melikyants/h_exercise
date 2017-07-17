@@ -1,0 +1,37 @@
+{
+    "clients": [{
+            "id": 1,
+            "firstName": "Jason",
+            "lastName": "Deegan",
+            "email": "jdeegan@gmai.com",
+            "projects": [{
+                    "id": 1,
+                    "name": "Ramble",
+                    "description": "project description",
+                    "totalWorkedHours": 0,
+                    "dateStart": 0
+                },
+                {
+                    "id": 1,
+                    "name": "Peruzz",
+                    "description": "project description",
+                    "totalWorkedHours": 0,
+                    "dateStart": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "firstName": "Maxwell",
+            "lastName": "Maxwell",
+            "email": "yolistenmax@gmai.com",
+            "projects": [{
+                "id": 1,
+                "name": "Process Board",
+                "description": "project description",
+                "totalWorkedHours": 0,
+                "dateStart": 0
+            }]
+        }
+    ]
+}
