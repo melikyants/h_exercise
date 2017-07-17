@@ -4,6 +4,7 @@
   "description": "Description of the project: Creating home accounting, which will handle regular daily money income/outcome managment. Also to add generating invoice functionality",
   "main": "index.js",
   "dependencies": {
+    "eslint": "^4.2.0",
     "lodash": "^4.17.4",
     "webpack": "^3.3.0"
   },
